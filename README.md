@@ -12,7 +12,7 @@
    - [Trade Analysis](https://tradeanalysis.vercel.app/)
    - [Reddit Clone](https://reddit-beat.netlify.com/)
    - [Netflix Clone](https://moviechill.netlify.com/)
-- Check out my terminal based apps:
+- 📟 Check out my terminal based apps:
    - [pok](https://github.com/arindampradhan/pok)
    - [cheesy](https://github.com/arindampradhan/cheesy)
    - [yaaHN](https://github.com/arindampradhan/yaaHN)
