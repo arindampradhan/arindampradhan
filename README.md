@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about microfrontend infrastructure architecture. 
 - 👯 I’m looking to collaborate on Web Development and solving engineering challenges.
-- 📫 How to reach me: arinidampradhan@gmail.com
+- 📫 How to reach me: arindampradhan10@gmail.com
 - ⚡ Fun fact: I am a yogi  
 - 👨‍💻 Check out my hosted web projects  
    - [Trade Analysis](https://tradeanalysis.vercel.app/)
