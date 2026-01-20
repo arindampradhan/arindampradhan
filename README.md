@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://arindampradhan.github.io">Arindam Pradhan!</a></h1>
 
-- 🌱 I’m currently learning about agentic coding architecture aka Vibe Coding. 
+- 🌱 I’m currently learning about rust. 
 - 👯 I’m looking to collaborate on Web Development and solving engineering challenges.
 - 📫 How to reach me: arindampradhan10@gmail.com
 - ⚡ Fun fact: I am a yogi  
