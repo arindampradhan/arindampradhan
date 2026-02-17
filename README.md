@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on Web Development and solving engineering challenges.
 - 📫 How to reach me: arindampradhan10@gmail.com
 - ⚡ Fun fact: I am a yogi  
-- 👨‍💻 Check out my hosted web projects  
+- 👨‍💻 Check out my hosted web projects
+   - [Rust Icons](https://rust-icons.netlify.app/) 
    - [Trade Analysis](https://tradeanalysis.vercel.app/)
    - [Reddit Clone](https://reddit-beat.netlify.com/)
    - [Netflix Clone](https://moviechill.netlify.com/)
@@ -16,6 +17,7 @@
    - [pok](https://github.com/arindampradhan/pok)
    - [cheesy](https://github.com/arindampradhan/cheesy)
    - [yaaHN](https://github.com/arindampradhan/yaaHN)
+   - [react-use-skills](https://github.com/arindampradhan/react-use-skills)
 
 </details></li></ul></ul> 
 
@@ -25,7 +27,7 @@
 <h3>A Passionate Engineer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/arindampradhan"><img src="https://github-profile-trophy.vercel.app/?username=arindampradhan&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="arindampradhan" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/arindampradhan"><img src="https://github-profile-trophy.vercel.app/?username=arindampradhan&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="arindampradhan" /></a> </p> -->
 
 
 
@@ -47,12 +49,12 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">My Stats</h3>
+<!-- <h3 align="left">My Stats</h3>
 
 [![Langs](https://github-readme-stats.vercel.app/api?username=arindampradhan&layout=compact)](https://github.com/arindampradhan)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindampradhan&layout=compact)](https://github.com/arindampradhan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindampradhan&layout=compact)](https://github.com/arindampradhan) -->
  
 
 <h3 align="left">Streaks</h3>
