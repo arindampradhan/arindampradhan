@@ -34,6 +34,9 @@
    - 📋 [yaaHN](https://github.com/arindampradhan/yaaHN)
    - 📦 [react-use-skills](https://github.com/arindampradhan/react-use-skills)
 
+### Zed Extensions
+- 🖼 [excalidraw-zed-extension](https://github.com/arindampradhan/excalidraw-zed-extension) - Preview .excalidraw files in a native WebView window for the Zed editor
+
 </details></li></ul></ul> 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
